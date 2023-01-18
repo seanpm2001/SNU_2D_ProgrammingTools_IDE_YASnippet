@@ -32,6 +32,11 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# YASnippet source file
+# YASnippet doesn't have an official file extension, as it relies on shebangs. For this project, I will be assigning *.yasnip as the extension
+*.yasnip linguist-detectable=true
+*.yasnip linguist-documentation=false
+*.yasnip linguist-language=YASnippet
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -161,10 +166,12 @@
 *.gif linguist-detectable=false
 *.gif linguist-documentation=false
 *.gif linguist-language=GIF
+
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2023, Wednesday, January 18th at 12:14 pm PST)
+# Line count (including blank lines and compiler line): 178
+
 # End of script
